@@ -8,7 +8,6 @@ body{
     text-align: center;
 
 }
-
 .container {
     height: 70vh;
     display: flex;
@@ -16,7 +15,7 @@ body{
     align-items: center;
 }
 
-.game{
+.game {
     height:60vmin;
     width:60vmin;
     display: flex;
